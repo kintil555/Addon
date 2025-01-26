@@ -21,3 +21,7 @@ I am here to share MCPE addons that are in the Free Marketplace
 # Credit
 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![alt text](https://github.com/kintil555/Addon/blob/main/Screenshot/laugh-es-teh.gif?raw=true)
+
+# license
+
+        License agreement from 2025
